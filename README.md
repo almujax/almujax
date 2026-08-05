@@ -9,7 +9,7 @@
       <b>
         Hello There
       <br>
-        I'm Muja, a soft/hardware architect of high-end solutions and full-stack DevSecOps  
+        I'm Mawja, a soft/hardware architect of high-end solutions and full-stack DevSecOps  
         Magician, <br> I ❤️ FOSS. </br>
       </b>
       <br>
