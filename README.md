@@ -1,18 +1,23 @@
-### Hi, I'm Mujahid Siyam — Mawja
+<p align="center">
+  <samp><b>Mujahid Siyam</b> / <i>Mawja</i></samp><br>
+  <sub>Software Engineering &nbsp;·&nbsp; Cloud Architecture &nbsp;·&nbsp; Linux &nbsp;·&nbsp; AI / DevSecOps &nbsp;·&nbsp; Open Source</sub>
+</p>
 
-Software Engineer | Network Engineering & Cloud Architecture | Linux Admin | AI/DevSecOps | Open Source
+&nbsp;
 
----
+> Software engineer from Sudan. I spend my days deep in Rust and Linux — building an IDE from scratch, wiring up NixOS flakes, and keeping infrastructure honest. When the terminal closes I'm on the other side of the screen making Sudanese hip-hop. Either way it's the same thing: understand the bottom layer, then build upward. No shortcuts, no black boxes.
 
-I'm a software engineer who builds low-level systems, AI tooling, and FOSS. My day job is Rust, cloud architecture, and reproducible infrastructure. Off the clock I produce Sudanese and Middle Eastern hip-hop — two disciplines, one approach: build from scratch, control every layer.
+&nbsp;
 
-## Building now
+◆ &nbsp;**Building now**
 
-**[Zaroxi Studio](https://github.com/ZaroxiHQ/zaroxi)** — an AI-first IDE written entirely in Rust with native GPU rendering (wgpu, vello, cosmic-text). No Electron, no web view. Sole builder — from the compositor to the intelligence layer.
+**[`Zaroxi Studio`](https://github.com/ZaroxiHQ/zaroxi)** — an AI-first IDE written entirely in Rust, rendered natively on the GPU with wgpu, vello, and cosmic-text. No Electron, no web view, no JavaScript runtime. I'm building this one solo — every crate, every commit, from the compositor to the intelligence layer.
 
-## Tech stack
+&nbsp;
 
-**Languages & Runtimes**
+◆ &nbsp;**Tech stack**
+
+<samp><b>Languages &amp; Runtimes</b></samp>
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -21,7 +26,9 @@ I'm a software engineer who builds low-level systems, AI tooling, and FOSS. My d
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-**Infrastructure & Cloud**
+&nbsp;
+
+<samp><b>Infrastructure &amp; Cloud</b></samp>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
@@ -31,7 +38,9 @@ I'm a software engineer who builds low-level systems, AI tooling, and FOSS. My d
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 
-**AI & DevSecOps**
+&nbsp;
+
+<samp><b>AI &amp; DevSecOps</b></samp>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -41,23 +50,35 @@ I'm a software engineer who builds low-level systems, AI tooling, and FOSS. My d
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
----
+&nbsp;
 
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammawja&show_icons=true&hide_border=true&theme=dark&count_private=true)](https://github.com/iammawja) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammawja&layout=compact&hide_border=true&theme=dark)](https://github.com/iammawja) |
-|---|---|
+◆ &nbsp;**Stats**
 
-## Featured
+<p align="center">
+  <a href="https://github.com/iammawja">
+    <img height="155" src="https://github-readme-stats.vercel.app/api?username=iammawja&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/iammawja">
+    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammawja&layout=compact&hide_border=true&theme=gruvbox&bg_color=00000000" />
+  </a>
+</p>
+
+&nbsp;
+
+◆ &nbsp;**Featured**
 
 | Project | Description | Stack |
 |---|---|---|
-| [Zaroxi Studio](https://github.com/ZaroxiHQ/zaroxi) | AI-first Rust IDE with native GPU rendering — from scratch, no Electron | Rust, wgpu, vello, tree-sitter |
-| [Funmacs](https://github.com/iammawja/funmacs) | Modern Emacs config — LSP, Tree-sitter, Meow modal editing, zero-setup | Emacs Lisp |
-| [MujaOS](https://github.com/iammawja/MujaOS) | Declarative, modular NixOS configuration — flake-based and reproducible | Nix, NixOS |
-| [Dotfiles](https://github.com/iammawja/dotfiles) | UNIX dotfiles collection — shell, fonts, configs, toolchain | Shell, Nix |
+| [`Zaroxi Studio`](https://github.com/ZaroxiHQ/zaroxi) | AI-first Rust IDE — native GPU rendering, 145+ crates, zero web tech | Rust · wgpu · vello · tree-sitter |
+| [`Funmacs`](https://github.com/iammawja/funmacs) | Emacs, but modern — LSP, Tree-sitter, Meow, zero config, KISS | Emacs Lisp |
+| [`MujaOS`](https://github.com/iammawja/MujaOS) | Declarative NixOS config — flake-based, modular, reproducible | Nix · NixOS |
+| [`Dotfiles`](https://github.com/iammawja/dotfiles) | The configuration under everything — shell, fonts, toolchain | Shell · Nix |
 
-## Connect
+&nbsp;
 
-[![Website](https://img.shields.io/badge/iammawja.com-000000?style=flat-square&logo=safari&logoColor=white)](https://iammawja.com)
+◆ &nbsp;**Elsewhere**
+
+[![iammawja.com](https://img.shields.io/badge/iammawja.com-000000?style=flat-square&logo=safari&logoColor=white)](https://iammawja.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iammawja)
 [![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/iammawja)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/user/iammawja)
@@ -66,4 +87,4 @@ I'm a software engineer who builds low-level systems, AI tooling, and FOSS. My d
 
 ---
 
-*Build systems like you build songs — layer by layer, from the foundation up, until everything resonates.*
+<samp><i>The terminal doesn't lie. Neither should your stack.</i></samp>
