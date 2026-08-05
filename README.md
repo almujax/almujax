@@ -1,17 +1,18 @@
 <p align="center">
-  <samp><b>Mujahid Siyam</b> / <i>Mawja</i></samp><br>
-  <sub>Software Engineering &nbsp;·&nbsp; Cloud Architecture &nbsp;·&nbsp; Linux &nbsp;·&nbsp; AI / DevSecOps &nbsp;·&nbsp; Open Source</sub>
+  <samp><b>M U J A H I D&emsp;S I Y A M</b></samp><br>
+  <samp>/ <i>Mawja</i> /</samp><br><br>
+  <sub>Software Engineering&emsp;·&emsp;Cloud Architecture&emsp;·&emsp;Linux&emsp;·&emsp;AI &amp; DevSecOps&emsp;·&emsp;Open Source</sub>
 </p>
 
 &nbsp;
 
-> Software engineer from Sudan. I spend my days deep in Rust and Linux — building an IDE from scratch, wiring up NixOS flakes, and keeping infrastructure honest. When the terminal closes I'm on the other side of the screen making Sudanese hip-hop. Either way it's the same thing: understand the bottom layer, then build upward. No shortcuts, no black boxes.
+> Engineer from Sudan. I trace everything back to the bottom layer — that's where the truth lives. Rust, NixOS, bare-metal Linux, GPU rendering pipelines. On the other side of midnight I make Sudanese hip-hop. Two worlds, same instinct: build what you hear, ship what you mean, and never trust a black box.
 
 &nbsp;
 
 ◆ &nbsp;**Building now**
 
-**[`Zaroxi Studio`](https://github.com/ZaroxiHQ/zaroxi)** — an AI-first IDE written entirely in Rust, rendered natively on the GPU with wgpu, vello, and cosmic-text. No Electron, no web view, no JavaScript runtime. I'm building this one solo — every crate, every commit, from the compositor to the intelligence layer.
+**[`Zaroxi Studio`](https://github.com/ZaroxiHQ/zaroxi)** — an AI-first IDE, pure Rust, rendered entirely on the GPU. No Electron. No embedded browser. No JavaScript runtime. Every pixel, every crate, every architectural decision is mine. This is what happens when you refuse to compromise on the stack.
 
 &nbsp;
 
@@ -52,27 +53,14 @@
 
 &nbsp;
 
-◆ &nbsp;**Stats**
-
-<p align="center">
-  <a href="https://github.com/iammawja">
-    <img height="155" src="https://github-readme-stats.vercel.app/api?username=iammawja&show_icons=true&hide_border=true&theme=gruvbox&count_private=true" />
-  </a>
-  <a href="https://github.com/iammawja">
-    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammawja&layout=compact&hide_border=true&theme=gruvbox" />
-  </a>
-</p>
-
-&nbsp;
-
 ◆ &nbsp;**Featured**
 
 | Project | Description | Stack |
 |---|---|---|
-| [`Zaroxi Studio`](https://github.com/ZaroxiHQ/zaroxi) | AI-first Rust IDE — native GPU rendering, 145+ crates, zero web tech | Rust · wgpu · vello · tree-sitter |
-| [`Funmacs`](https://github.com/iammawja/funmacs) | Emacs, but modern — LSP, Tree-sitter, Meow, zero config, KISS | Emacs Lisp |
-| [`MujaOS`](https://github.com/iammawja/MujaOS) | Declarative NixOS config — flake-based, modular, reproducible | Nix · NixOS |
-| [`Dotfiles`](https://github.com/iammawja/dotfiles) | The configuration under everything — shell, fonts, toolchain | Shell · Nix |
+| [`Zaroxi Studio`](https://github.com/ZaroxiHQ/zaroxi) | AI-first Rust IDE — native GPU rendering, 145+ crates, zero web tech | Rust &nbsp;·&nbsp; wgpu &nbsp;·&nbsp; vello &nbsp;·&nbsp; tree-sitter |
+| [`Funmacs`](https://github.com/iammawja/funmacs) | Emacs, but modern — LSP, Tree-sitter, Meow modal editing, zero config | Emacs Lisp |
+| [`MujaOS`](https://github.com/iammawja/MujaOS) | Declarative NixOS config — flake-based, modular, reproducible | Nix &nbsp;·&nbsp; NixOS |
+| [`Dotfiles`](https://github.com/iammawja/dotfiles) | The configuration under everything — shell, fonts, toolchain | Shell &nbsp;·&nbsp; Nix |
 
 &nbsp;
 
