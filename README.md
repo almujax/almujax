@@ -71,6 +71,10 @@
 [![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/almujax)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/user/almujax)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/artist/almujax)
+[![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=flat-square&logo=applemusic&logoColor=white)](https://music.apple.com/us/artist/almujamusic)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@almuja)
+[![Anghami](https://img.shields.io/badge/Anghami-FE007C?style=flat-square&logo=anghami&logoColor=white)](https://play.anghami.com/artist/almuja)
+[![Deezer](https://img.shields.io/badge/Deezer-A238FF?style=flat-square&logo=deezer&logoColor=white)](https://deezer.com/us/artist/almuja)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/almujax)
 
 ---
