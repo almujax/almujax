@@ -1,6 +1,6 @@
 <p align="center">
   <samp><b>M U J A H I D&emsp;S I Y A M</b></samp><br>
-  <samp>/ <i>Mawja</i> /</samp><br><br>
+  <samp>/ <i>Almuja</i> /</samp><br><br>
   <sub>Software Engineering&emsp;·&emsp;Cloud Architecture&emsp;·&emsp;Linux&emsp;·&emsp;AI &amp; DevSecOps&emsp;·&emsp;Open Source</sub>
 </p>
 
@@ -58,20 +58,20 @@
 | Project | Description | Stack |
 |---|---|---|
 | [`Zaroxi Studio`](https://github.com/ZaroxiHQ/zaroxi) | AI-first Rust IDE — native GPU rendering, 145+ crates, zero web tech | Rust &nbsp;·&nbsp; wgpu &nbsp;·&nbsp; vello &nbsp;·&nbsp; tree-sitter |
-| [`Funmacs`](https://github.com/iammawja/funmacs) | Emacs, but modern — LSP, Tree-sitter, Meow modal editing, zero config | Emacs Lisp |
-| [`MujaOS`](https://github.com/iammawja/MujaOS) | Declarative NixOS config — flake-based, modular, reproducible | Nix &nbsp;·&nbsp; NixOS |
-| [`Dotfiles`](https://github.com/iammawja/dotfiles) | The configuration under everything — shell, fonts, toolchain | Shell &nbsp;·&nbsp; Nix |
+| [`Funmacs`](https://github.com/almujax/funmacs) | Emacs, but modern — LSP, Tree-sitter, Meow modal editing, zero config | Emacs Lisp |
+| [`MujaOS`](https://github.com/almujax/MujaOS) | Declarative NixOS config — flake-based, modular, reproducible | Nix &nbsp;·&nbsp; NixOS |
+| [`Dotfiles`](https://github.com/almujax/dotfiles) | The configuration under everything — shell, fonts, toolchain | Shell &nbsp;·&nbsp; Nix |
 
 &nbsp;
 
 ◆ &nbsp;**Elsewhere**
 
-[![iammawja.com](https://img.shields.io/badge/iammawja.com-000000?style=flat-square&logo=safari&logoColor=white)](https://iammawja.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iammawja)
-[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/iammawja)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/user/iammawja)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/artist/iammawja)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/iammawja)
+[![almujax.com](https://img.shields.io/badge/almujax.com-000000?style=flat-square&logo=safari&logoColor=white)](https://almujax.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/almujax)
+[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/almujax)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/user/almujax)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/artist/almujax)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/almujax)
 
 ---
 
