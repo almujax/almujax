@@ -1,6 +1,6 @@
 <p align="center">
   <samp><b>M U J A H I D&emsp;S I Y A M</b></samp><br>
-  <samp>/ <i>Almuja</i> /</samp><br><br>
+  <samp>/ <i>Mujaa</i> /</samp><br><br>
   <sub>Software Engineering&emsp;·&emsp;Cloud Architecture&emsp;·&emsp;Linux&emsp;·&emsp;AI &amp; DevSecOps&emsp;·&emsp;Open Source</sub>
 </p>
 
@@ -58,24 +58,24 @@
 | Project | Description | Stack |
 |---|---|---|
 | [`Zaroxi Studio`](https://github.com/ZaroxiHQ/zaroxi) | AI-first Rust IDE — native GPU rendering, 145+ crates, zero web tech | Rust &nbsp;·&nbsp; wgpu &nbsp;·&nbsp; vello &nbsp;·&nbsp; tree-sitter |
-| [`Funmacs`](https://github.com/iammujaa/funmacs) | Emacs, but modern — LSP, Tree-sitter, Meow modal editing, zero config | Emacs Lisp |
-| [`MujaOS`](https://github.com/iammujaa/MujaOS) | Declarative NixOS config — flake-based, modular, reproducible | Nix &nbsp;·&nbsp; NixOS |
-| [`Dotfiles`](https://github.com/iammujaa/dotfiles) | The configuration under everything — shell, fonts, toolchain | Shell &nbsp;·&nbsp; Nix |
+| [`Funmacs`](https://github.com/mujaaco/funmacs) | Emacs, but modern — LSP, Tree-sitter, Meow modal editing, zero config | Emacs Lisp |
+| [`MujaOS`](https://github.com/mujaaco/MujaOS) | Declarative NixOS config — flake-based, modular, reproducible | Nix &nbsp;·&nbsp; NixOS |
+| [`Dotfiles`](https://github.com/mujaaco/dotfiles) | The configuration under everything — shell, fonts, toolchain | Shell &nbsp;·&nbsp; Nix |
 
 &nbsp;
 
 ◆ &nbsp;**Elsewhere**
 
-[![iammujaa.com](https://img.shields.io/badge/iammujaa.com-000000?style=flat-square&logo=safari&logoColor=white)](https://iammujaa.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iammujaa)
-[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/iammujaa)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/user/iammujaa)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/artist/iammujaa)
-[![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=flat-square&logo=applemusic&logoColor=white)](https://music.apple.com/us/artist/iammujaa)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@iammujaa)
-[![Anghami](https://img.shields.io/badge/Anghami-FE007C?style=flat-square&logo=anghami&logoColor=white)](https://play.anghami.com/artist/iammujaa)
-[![Deezer](https://img.shields.io/badge/Deezer-A238FF?style=flat-square&logo=deezer&logoColor=white)](https://deezer.com/us/artist/iammujaa)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/iammujaa)
+[![mujaaco.com](https://img.shields.io/badge/mujaaco.com-000000?style=flat-square&logo=safari&logoColor=white)](https://mujaaco.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mujaaco)
+[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/mujaaco)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/user/mujaaco)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/artist/mujaaco)
+[![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=flat-square&logo=applemusic&logoColor=white)](https://music.apple.com/us/artist/mujaaco)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@mujaaco)
+[![Anghami](https://img.shields.io/badge/Anghami-FE007C?style=flat-square&logo=anghami&logoColor=white)](https://play.anghami.com/artist/mujaaco)
+[![Deezer](https://img.shields.io/badge/Deezer-A238FF?style=flat-square&logo=deezer&logoColor=white)](https://deezer.com/us/artist/mujaaco)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/mujaaco)
 
 ---
 
